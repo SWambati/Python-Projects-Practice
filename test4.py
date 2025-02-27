@@ -1,4 +1,4 @@
-
+#this program mimic the transactions performed on a bank account
 balance = 3400
 option = input("Please select option: check_balance, withdrawal, deposits...")
 if option == "withdrawal":

@@ -1,3 +1,4 @@
+#the program determines if a value is odd or even
 
 try:
     num = int(input("Enter a number: "))

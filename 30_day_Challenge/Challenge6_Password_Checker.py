@@ -26,7 +26,7 @@ while True:
 
     elif has_lower and has_upper and has_digit and has_symbol and len(password) >= 8:
         print("Your password is strong")
-        break 
+        break  
     else:
         print(" Your password didn't meet any of the strength criteria. Try again!")
 

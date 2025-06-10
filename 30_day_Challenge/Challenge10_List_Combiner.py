@@ -1,4 +1,4 @@
-#this program allows a user to enter a list, combines them and generates a final list with no duplicates
+#this program allows a user to enter a list, combines them and generates a final list with no duplicates in a random order
 
 input1 = input("Enter a list of values. Remember to space your values: ")
 input2 = input("Enter another list of values. Remember to space your values: ")

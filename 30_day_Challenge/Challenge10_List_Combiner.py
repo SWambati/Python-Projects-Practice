@@ -4,7 +4,7 @@ input1 = input("Enter a list of values. Remember to space your values: ")
 input2 = input("Enter another list of values. Remember to space your values: ")
 
 list1 = input1.split()
-list2 = input2.split()
+list2 = input2.spilt()
 
 combined_list = list1 + list2
 

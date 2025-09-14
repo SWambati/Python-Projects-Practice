@@ -1,4 +1,4 @@
-#this program is a random guessing game
+#this program is a random number guessing game
 
 import random
 

@@ -1,7 +1,5 @@
 #this program checks if a number is a prime number
 
-
-
 def prime_num(num):
     if num <= 1:
         return False

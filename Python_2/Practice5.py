@@ -30,7 +30,7 @@ def play_lottery():
     if result == "no":
         print("Okay. Thank you for your time")
     else:
-        print("Welcom to our lottery game. You have 4 turns to guess a series of numbers. You win if your guesses are similar to the winning numbers")
+        print("Welcome to our lottery game. You have 4 turns to guess a series of numbers. You win if your guesses are similar to the winning numbers")
         winning_numbers = generate_winning_numbers()
         player_guesses = get_player_guesses()
 
